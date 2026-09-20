@@ -1,0 +1,12 @@
+/* expressoes cobertas pelo subconjunto: regras 18, 20, 22, 23, 24, 25, 26 */
+x = a + b * 2
+resultado = (alfa - beta) / 4
+v[i] = v[i] + 1
+media = soma / contador
+p = x <= y
+q = x >= y
+r = x == y
+s = x != y
+t = x < y
+u = x > y
+z = ((a + b) * (c - d)) / 2

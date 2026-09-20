@@ -1,0 +1,6 @@
+x = a @ b
+y = c # d
+z = a ; b
+w = {alfa}
+/* comentario aberto que nunca fecha
+v = 1 + 2
